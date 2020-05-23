@@ -1,0 +1,260 @@
+# depslib dependency file v1.0
+1589805554 source:c:\users\demi\desktop\abm mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+	"trabajo.h"
+
+1589806325 c:\users\demi\desktop\abm mascotas\mascota.h
+
+1589806196 source:c:\users\demi\desktop\abm mascotas\auxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1589805824 c:\users\demi\desktop\abm mascotas\auxiliar.h
+
+1589805588 source:c:\users\demi\desktop\abm mascotas\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1589588783 c:\users\demi\desktop\abm mascotas\tipos.h
+
+1589588582 c:\users\demi\desktop\abm mascotas\servicio.h
+
+1589588783 c:\users\demi\desktop\abm mascotas\color.h
+
+1589806196 source:c:\users\demi\desktop\abm mascotas\color.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1589806196 source:c:\users\demi\desktop\abm mascotas\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1589806196 source:c:\users\demi\desktop\abm mascotas\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1589806196 source:c:\users\demi\desktop\abm mascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1589588783 c:\users\demi\desktop\abm mascotas\trabajo.h
+
+1590192396 source:c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\auxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+	"trabajo.h"
+	"duenio.h"
+
+1590195227 c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\mascota.h
+
+1589995998 c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\auxiliar.h
+
+1589895055 c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\tipos.h
+
+1589588582 c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\servicio.h
+
+1589895115 c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\color.h
+
+1590187004 source:c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\color.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+	"trabajo.h"
+	"duenio.h"
+	"informes.h"
+
+1590195072 source:c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+	"trabajo.h"
+	"duenio.h"
+	"informes.h"
+
+1590186165 c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\trabajo.h
+
+1590187963 source:c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+	"duenio.h"
+	"informes.h"
+
+1590187004 source:c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+	"trabajo.h"
+	"duenio.h"
+	"informes.h"
+
+1590187004 source:c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+	"trabajo.h"
+	"duenio.h"
+	"informes.h"
+
+1590187004 source:c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+	"trabajo.h"
+	"duenio.h"
+	"informes.h"
+
+1590185887 c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\duenio.h
+
+1590187004 source:c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\duenio.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+	"trabajo.h"
+	"informes.h"
+
+1590194420 c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\informes.h
+
+1590195016 source:c:\users\demi\desktop\utn 2020\programacion 1\1er parcial laboratorio\abm mascotas\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+	"trabajo.h"
+
